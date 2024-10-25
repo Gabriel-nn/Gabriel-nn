@@ -1,3 +1,7 @@
+so copiar e colar o site 
+file:///media/fuse/drivefs-93203509e89fc64c42c7c6053deafa7f/root/Gabriel.html
+
+
 
 <html lang="pt-BR">
 
